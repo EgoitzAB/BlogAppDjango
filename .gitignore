@@ -1,0 +1,17 @@
+# Adding venv
+/venv
+*/venv
+./venv
+venv
+
+# Adding cache
+/__pycache__
+./__pycache__
+*/__pycache__
+__pycache__
+
+# Adding env
+.env
+/.env
+./.env
+*/.env
